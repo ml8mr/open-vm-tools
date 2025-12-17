@@ -1,4 +1,4 @@
-This files in this directory and its subdirectories are the kernel module
+The files in this directory and its subdirectories are the kernel module
 for the VMware VSockets module.  In order to build, make certain the Makefile
 is correct and then just type
 

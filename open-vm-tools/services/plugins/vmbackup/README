@@ -32,7 +32,7 @@ The main state machine, implemented in stateMachine.c, works as follows:
 The transitions mean the following events / conditions:
 
 a. vmbackup.start RPC
-   b'. vmbackup operation is running in background (Linux specific)
+   b' vmbackup operation is running in background (Linux specific)
 b. vmbackup operation is finished
 c. vmbackup.snapshotDone RPC
 d. sync provider operation is finished
